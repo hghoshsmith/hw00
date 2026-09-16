@@ -7,6 +7,7 @@
 def main():
 	print("Hello World!"); # print a message
 	print("Today is a nice day!");
+	print("Changes being made");
 
 
 # Run main if this script is being run 
